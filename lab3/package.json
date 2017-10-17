@@ -1,0 +1,17 @@
+{
+  "name": "cs-546-lab-3",
+  "version": "0.0.1",
+  "description": "Asynchronous Code, Files and Promises",
+  "main": "app.js",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "author": "Neha Jinwala",
+  "license": "MIT"
+}

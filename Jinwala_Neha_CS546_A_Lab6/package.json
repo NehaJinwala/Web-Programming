@@ -1,0 +1,16 @@
+{
+  "name": "jinwala_neha_cs546_a",
+  "version": "1.0.0",
+  "description": "This is lab 6 for CS 546 section A for Neha Jinwala",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Neha Jinwala",
+  "license": "MIT"
+}
