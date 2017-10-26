@@ -1,0 +1,15 @@
+{
+  "name": "Yesha Dave",
+  "biography": "My name is Yesha. I have done my undergrad in Information technology from Pune University, India.  I am having 3 years of work experience in software development with a company named Persistent Systems. Currently I am doing my masters in computer Science and this is my second semester at Stevens. I live in JErsey City with my husband. He is a stevens Alumni and a software developer in Citigroup.",
+  "favoriteShows": [
+    "1. F.R.I.E.N.D.S - This is my all time favourite TV show, I would rank it as 10/10.",
+    "How I met your mother - Rank 7.5/10",
+    "The Big bang theory - Rank 7/10",
+    "South Park - 6.5/10"
+  ],
+  "hobbies": [
+    "Programming",
+    "Painting",
+    "Travelling and Hiking"
+  ]
+}

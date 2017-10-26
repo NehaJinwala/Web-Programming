@@ -1,0 +1,17 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Node File System Lab 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Yesha Dave",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "json": "^9.0.4",
+    "promise": "^7.1.1",
+    "prompt": "^1.0.0"
+  }
+}
